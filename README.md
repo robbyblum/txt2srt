@@ -1,5 +1,5 @@
-# txt2rst
-quick python script to make a dummy .rst caption file from a text file.
+# txt2srt
+quick python script to make a dummy .srt caption file from a text file.
 
 Created by decimae; I've only edited it a bit so far.
 
